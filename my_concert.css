@@ -1,0 +1,21 @@
+caption {
+  padding: 10px;
+}
+
+thead th, tfoot td{
+  text-align: center;
+}
+
+thead th{
+  background-color: darkblue;
+  font-weight: bold;
+  color: white;
+}
+
+tbody td{
+  background-color: yellow;
+}
+
+tfoot td{
+  background-color: cyan;
+}
